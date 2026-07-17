@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+   int x=-5;
+   if (x=10)
+      printf("hi");
+   printf("bye");
+   printf("welcome");
+   printf("%d",x);
+}
+
+
+
+
+
+
+
+
